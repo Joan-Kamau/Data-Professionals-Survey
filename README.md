@@ -9,7 +9,7 @@ Key Features:
 
 Designed a clean, user-friendly dashboard in Power BI
 
-Used slicers, drill-throughs, and filters to enhance interactivity
+Used drill-throughs and filters to enhance interactivity
 
 Built DAX measures to summarize salary distributions and experience levels
 
